@@ -1,4 +1,4 @@
-package Unit_testing;
+package Unit_testing.solr_impl;
 
 import java.util.List;
 
